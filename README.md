@@ -5,6 +5,7 @@ It highlights total sales, profit, units sold, and gross sales, helping stakehol
 
 # Files
 Sales Dashboard.pdf – Exported Power BI dashboard displaying all visuals and KPIs.
+
 Sales Dashboard.pptx – Presentation summarizing insights and trends from the dashboard.
 
 # Content

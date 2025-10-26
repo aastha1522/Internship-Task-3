@@ -10,12 +10,18 @@ Sales Dashboard.pptx – Presentation summarizing insights and trends from the d
 
 # Content
 Clear KPI cards for Sales, Profit, and Growth.
+
 Trends over time with filters for easy exploration.
+
 Breakdown by product, segment, and region for detailed insights.
+
 Interactive visuals and a consistent color theme for clarity and engagement.
 
 # Notes
 Learned to transform raw financial data into an interactive business intelligence dashboard.
+
 Practiced designing clean visuals that align with corporate storytelling and decision-making.
+
 Understood how to integrate insights into a PowerPoint summary for non-technical audiences.
+
 Enhanced skills in data visualization, layout design, and insight communication using Power BI.
